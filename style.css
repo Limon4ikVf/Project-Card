@@ -1,0 +1,38 @@
+body {
+  background: #cecece;
+}
+
+h1 {
+  font-family: 'Barriecito', cursive;
+  text-align: center;
+}
+
+.wrapper {
+  padding: 20px;
+  border-radius: 10px;
+  display: column;
+  background: #fff;
+  margin: 100px;
+  width: 220px;
+  height: 300px;
+}
+
+
+.pic1 {
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+  background: url('https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt8e3bfd1a74c89513/60de816b96e07e0f6e5e12cf/33aa0b83f4b51fcbb75405aed13c5e64424858ae.jpg?quality=80&format=pjpg&auto=webp&width=620');
+  border-radius: 200px;
+  background-size: 400px;
+  background-position: center;
+}
+.pic2 {
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+  background: url('https://gdb.rferl.org/022ac5fa-27c6-49cb-b828-25e6ce8f896a_w1080_h608_s.jpg');
+  border-radius: 200px;
+  background-size: 400px;
+  background-position: center;
+}
